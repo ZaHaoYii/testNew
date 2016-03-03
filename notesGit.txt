@@ -1,1 +1,9 @@
 初始化仓库（创建） git init(cd 进入目标目录（仓库）)
+添加工作区里的文件进入缓冲区 git add fileName
+提交文件至仓库 git commit -m "note"
+查看仓库的变化情况 git diff
+查看仓库状态 git status
+回退版本 git reset --hard 版本号（前几位即可）
+查看提交的记录 git log
+查看命令记录（可以用于找回各种版本号） git reflog
+工作区/暂存区/版本库
