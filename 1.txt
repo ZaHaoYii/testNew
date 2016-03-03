@@ -4,3 +4,4 @@ new 3
 really so?
 Git track changes!
 Git has a mutable index called stage!
+error here!
